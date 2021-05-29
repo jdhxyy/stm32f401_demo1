@@ -2,6 +2,7 @@
 /object/
 /DebugConfig
 /clib
+.vscode
 
 *.pyc
 *.map
