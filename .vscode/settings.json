@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "framework.h": "c",
+        "drivers.h": "c",
+        "def.h": "c",
+        "tzfifo.h": "c",
+        "tzlist.h": "c",
+        "tzio.h": "c"
+    }
+}
